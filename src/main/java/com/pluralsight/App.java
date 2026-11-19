@@ -12,7 +12,7 @@ public class App {
 
         System.out.println("Hello" + " " +  name +"!");
 
-
+        System.out.println("Goodbye " + name + "!");
     }
 
 }
